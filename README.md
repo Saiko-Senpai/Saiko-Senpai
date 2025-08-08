@@ -1,7 +1,7 @@
-- 👋 Hi, Aritra Dutta
+- 👋 Hi, I am Aritra Dutta and a aspiring software engineer 
 - 👀 I’m interested in learning new coding languages and applying them in real life problems 
 - 🌱 I’m currently learning artificial intelligence and machine learning along with front end web developing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Currently persuing B.Tech in Information Technology at Techno Main Salt Lake 
 - 📫 Reach me at aritradutta2006@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like watching anime and read manga/manhwa
